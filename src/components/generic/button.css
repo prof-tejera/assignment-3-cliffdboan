@@ -1,0 +1,70 @@
+button {
+    margin: 2.5px;
+    height: 50px;
+    width: 50px;
+    border-radius: 360px;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+#start {
+    background-color: #baffc9;
+}
+
+#pause {
+    background-color: #ffffba;
+}
+
+#reset {
+    background-color: #ffb3ba;
+}
+
+#add {
+    font-weight: bolder;
+    background-color: #F9C869;
+}
+
+#edit {
+    height: 25px;
+    width: 75px;
+    border-radius: 0;
+    margin: 0.5px;
+    background-color: #a8d1d1
+}
+
+#setter {
+    height: 25px;
+    width: 75px;
+    border-radius: 0;
+    margin: 0.5px;
+    background-color: #d1a8a8
+}
+
+#moveUp {
+    height: 35px;
+    width: 45px;
+    border-radius: 0;
+    font-size: large;
+    background-color: lightsalmon;
+}
+
+#moveDown {
+    height: 35px;
+    width: 45px;
+    border-radius: 0;
+    background-color: lightsalmon;
+    font-size: large;
+    font-weight: 1000;
+}
+
+#delete {
+    background-color: red;
+    font-size: xx-large;
+    height: 38px;
+    width: 50px;
+    /* margin-left: 60px */
+}
