@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assignment-3-cliffdboan/static/css/main.7135e40b.css",
+    "main.js": "/assignment-3-cliffdboan/static/js/main.79592fb1.js",
+    "index.html": "/assignment-3-cliffdboan/index.html",
+    "main.7135e40b.css.map": "/assignment-3-cliffdboan/static/css/main.7135e40b.css.map",
+    "main.79592fb1.js.map": "/assignment-3-cliffdboan/static/js/main.79592fb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7135e40b.css",
+    "static/js/main.79592fb1.js"
+  ]
+}
